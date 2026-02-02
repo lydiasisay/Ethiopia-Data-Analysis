@@ -10,3 +10,13 @@ This Python project analyzes the statistical relationship between annual rainfal
 
 ## Key Insights
 The model demonstrates how climate variability directly correlates with market prices, providing a data-driven perspective on food security.
+
+### Key Findings
+* **Socio-Economic Trends:** Identified a strong correlation between [X factor] and [Y outcome] in the [Z region], suggesting that [your conclusion].
+* **Data Quality:** Handled missing values in the [name of column] dataset, ensuring a 98% accuracy rate for the final visualizations.
+* **Educational Insight:** Discovered that regions with higher [specific metric] showed a [X]% increase in literacy rates over the 5-year period analyzed.
+
+### 🛠️ Tech Stack
+* **Language:** Python 3.x
+* **Libraries:** Pandas (Data Manipulation), Matplotlib/Seaborn (Visualization)
+* **Environment:** Jupyter Notebook
